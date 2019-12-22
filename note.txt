@@ -1,0 +1,2 @@
+1. Change default port in spring boot.
+2. Run app java -jar target/user-api-**.jar
